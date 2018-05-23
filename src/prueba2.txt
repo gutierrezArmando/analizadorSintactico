@@ -1,0 +1,9 @@
+
+si (i<3) entonces
+    i = i + 1
+    mientras (j<i)
+        j = j + 1
+        escribir "el valor de j es: ", j
+    fin-mientras
+    
+fin-si
